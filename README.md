@@ -39,9 +39,6 @@ The bundled WNet was trained on importance scores derived from the drop in recon
 
 ## Citation
 
-<details>
-<summary>BibTeX for the journal and conference papers</summary>
-
 ```bibtex
 @article{zhou2025fast,
   author  = {Zhou, Kequan and Zhang, Guangyi and Cai, Yunlong and Hu, Qiyu and Yu, Guanding and Swindlehurst, A. Lee},
